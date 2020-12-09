@@ -19,6 +19,6 @@ print $a + $b;
 >>>>>>> kivonas
 
 $x = 35;
-$y = ;
+$y = 19;
 print $x - $y;
 ?>
